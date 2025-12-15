@@ -1,0 +1,7 @@
+// phpcs:ignoreFile
+import"./checkbox-s5bXFmHL.js";import"./field-description-Ct1ZCpwf.js";import"./field-message-DdGxTmrS.js";import"./input-DCbNiGMb.js";import"./label-w8_TiyBm.js";import"./link-D7RSp3dh.js";import"./radio-DHwwdUhg.js";import"./select-BUGizy2a.js";import"./textarea-Byk0S4lb.js";import"./textfield-BVMzocDy.js";import"./field-DNVz5NFO.js";import{P as a,a as i}from"./pagination.stories.data-CvTeI0fz.js";import"./twig-TIIEE6v_.js";import"./_commonjsHelpers-_d1bhYXs.js";import"./icon-DxPaYU9_.js";import"./text-icon-GyjYiuzU.js";import"./item-list-Zrz49Ltd.js";const k={title:"Molecules/List/Pagination",component:a,argTypes:{theme:{control:{type:"radio"},options:["light","dark"]},heading_id:{control:{type:"text"}},items:{control:{type:"array"}},items_modifier_class:{control:{type:"text"}},current:{control:{type:"number"}},items_per_page_title:{control:{type:"text"}},items_per_page_options:{control:{type:"array"}},items_per_page_name:{control:{type:"text"}},items_per_page_id:{control:{type:"text"}},use_ellipsis:{control:{type:"boolean"}},modifier_class:{control:{type:"text"}}}},t={parameters:{layout:"padded"},args:i.args("light")};var o,e,r;t.parameters={...t.parameters,docs:{...(o=t.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  parameters: {
+    layout: 'padded'
+  },
+  args: PaginationData.args('light')
+}`,...(r=(e=t.parameters)==null?void 0:e.docs)==null?void 0:r.source}}};const E=["Pagination"];export{t as Pagination,E as __namedExportsOrder,k as default};
